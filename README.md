@@ -2,4 +2,4 @@
 
 ATTENTION !!
 
-SQLBankomat.jar is connected to MySql-Database dont enter personal Information.
+SQLBankomat.jar is connected to a MySql-Database don't enter personal Information.
