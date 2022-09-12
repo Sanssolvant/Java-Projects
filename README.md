@@ -1,2 +1,2 @@
-# Java-Projects
-Projects i made with Java.
+# Projects
+Projects i made.
