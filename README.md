@@ -11,4 +11,4 @@ To see the website follow the steps:
 - open xampp control panel
 - Start Apache
 - type into the chrome browser: http://localhost/Website/index.php
-Enjoy
+- Enjoy!!
